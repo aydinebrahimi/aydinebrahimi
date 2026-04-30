@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @idinebrahimi
+- 👋 Hi, I’m @aydinebrahimi
 - 👀 I’m interested in remote sensing and geomatic
 - 🌱 I’m currently learning remote seinsing course
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : @idinebrahimi98@gmail.com
+- 📫 How to reach me : @aydinebrahimi1998@gmail.com
 
 <!---
 idinebrahimi/idinebrahimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
